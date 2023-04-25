@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Brian Yousef</h1>
+<h3 align="center">A passionate frontend developer from Utrecht</h3>
+
 Mijn naam is Brian Yousef. Ik ben 20 jaar oud en zit op het HU College.
 Ik ben dit jaar begonnen aan mijn studie: HBO ICT. Dit is een voltijdse opleiding met een duur van 4 jaar.
 Hiervoor heb ik op Het Niftarlake College gezeten. Hier heb ik mijn MAVO diploma behaald en ben ik doorgestroomd naar de HAVO.
@@ -20,14 +23,6 @@ Hiervoor heeft hij ook CSS nodig, dit heb ik grotendeels ook van hem geleerd.
 
 Ik heb nog niet veel ervaring met Javascript. Momenteel leer ik over Javascript via een online cursus die ik volg.
 Ik leer het meest over Javascript op school. Hier probeer ik mijn kennis te ontwikkelen om vervolgens een expert te worden in Javascript.
-
-
-<h1 align="center">Hi 👋, I'm Brian Yousef</h1>
-<h3 align="center">A passionate frontend developer from Utrecht</h3>
-
-- 🔭 I’m currently working on **a mail client**
-
-- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **brianyousef@live.com**
 
