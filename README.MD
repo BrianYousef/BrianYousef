@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Yousef</h1>
 <h3 align="center">A passionate frontend developer from Utrecht</h3>
 
-Ik ben 20 jaar oud en zit op het HU College.
+Ik ben 23 jaar oud en zit op het HU College.
 Ik ben dit jaar begonnen aan mijn studie: HBO ICT. Dit is een voltijdse opleiding met een duur van 4 jaar.
 Hiervoor heb ik op Het Niftarlake College gezeten. Hier heb ik mijn MAVO diploma behaald en ben ik doorgestroomd naar de HAVO.
 Mijn HAVO diploma heb ik uiteindelijk behaald op Het MBO Rijnland College. Hier heb ik op de VAVO gezeten voor een jaar.
