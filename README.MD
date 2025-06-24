@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Brian Yousef</h1>
 <h3 align="center">A passionate frontend developer from Utrecht</h3>
 
-Ik ben 23 jaar oud en zit op het HU College.
-Ik ben dit jaar begonnen aan mijn studie: HBO ICT. Dit is een voltijdse opleiding met een duur van 4 jaar.
-Hiervoor heb ik op Het Niftarlake College gezeten. Hier heb ik mijn MAVO diploma behaald en ben ik doorgestroomd naar de HAVO.
-Mijn HAVO diploma heb ik uiteindelijk behaald op Het MBO Rijnland College. Hier heb ik op de VAVO gezeten voor een jaar.
+A passionate frontend developer from Utrecht
 
-Mijn affiniteit met IT is terug te zien in het feit dat ik in mijn vrije tijd veel bezig ben met het leren van codeer talen.
-Verder hou ik mij ook veel bezig met sporten in mijn vrije tijd.
-Ik ben momenteel werkzaam bij de Basic-Fit als Gastheer op club Zonnebaan te Utrecht.
-Ik ben ook werkzaam geweest als Service Engineer bij Amac. Hier heb ik mij bezig gehouden met IT.
-Daarnaast ben ik nog Teamleider geweest bij Basic-Fit, tevens was dit op dezelfde club waar ik momenteel werkzaam ben.
+Ik ben 23 jaar oud en woonachtig in Utrecht. Momenteel studeer ik HBO-ICT aan de Hogeschool Utrecht. Mijn achtergrond in het onderwijs begon op het Niftarlake College, waar ik mijn MAVO-diploma behaalde. Vervolgens heb ik mijn HAVO-diploma afgerond via de VAVO op het MBO Rijnland College.
+
+Mijn interesse in IT komt tot uiting in mijn vrije tijd, waarin ik mij actief verdiep in programmeertalen en frontend development. Daarnaast sport ik regelmatig en werk ik aan mijn persoonlijke ontwikkeling op meerdere vlakken.
+
+Professioneel ben ik actief geweest als Service Engineer bij Amac, waar ik mij richtte op technische ondersteuning en IT-gerelateerde werkzaamheden. Bij Basic-Fit heb ik zowel als teamleider als gastheer gewerkt op club Zonnebaan in Utrecht.
+
+Naast mijn studie en werkervaring ben ik ook actief als ondernemer en werk ik aan eigen projecten binnen webdevelopment en e-commerce.
 
 📫 How to reach me **brianyousef@live.com**
 
